@@ -1,107 +1,44 @@
-# Shenzhou Qigong Tuina Massage Services
+# Shenzhou Qigong Tuina - Professional Massage & Wellness Services
 
-A professional static website for massage and wellness services, hosted on GitHub Pages.
+Welcome to Shenzhou Qigong Tuina, your premier destination for authentic Chinese massage and wellness services in New York City.
 
-## Features
+## 📍 Location
 
-- **Responsive Design**: Mobile-friendly layout that works on all devices
-- **Service Showcase**: Display your massage services and offerings
-- **Gallery**: Space for professional massage therapy images
-- **Pricing Table**: Clear pricing structure for different services
-- **Contact Information**: Phone number, email, address, and contact form
-- **Professional Styling**: Modern gradient design with smooth animations
+**1325 St. Nicholas Ave**  
+New York, NY 10033  
+*(Between W176th and W177th St)*
 
-## Getting Started
+## 📞 Contact
 
-### Local Development
+**Phone:** [(917) 388-2826](tel:+19173882826)
 
-1. Clone this repository
-2. Open `index.html` in your web browser
-3. Edit the content to match your business information
+## ⏰ Hours
 
-### Customization
+**Monday - Sunday**  
+10:00 AM - 10:00 PM
 
-- **Contact Information**: Update phone number, email, and address in `index.html`
-- **Pricing**: Modify the price table in the pricing section
-- **Images**: Add your massage images to an `images/` folder:
-  - `images/massage-1.jpg`
-  - `images/massage-2.jpg`
-  - `images/massage-3.jpg`
-  - `images/massage-4.jpg`
-- **Colors**: Modify the color scheme in `styles.css` (change `#667eea` and `#764ba2`)
+## 💆 Our Services
 
-## Hosting on GitHub Pages
+- **Body Massage** - 60 minutes - $55
+- **Foot Massage** - 40 minutes - $38
+- **Couple Massage** - 60 minutes - $110
 
-### Step 1: Create a GitHub Repository
+## 🌟 About Us
 
-1. Go to [github.com](https://github.com) and sign in
-2. Click "New repository"
-3. Name your repository: `shenzhouqigongtuina` (or any name)
-4. Choose "Public" (required for free GitHub Pages)
-5. Click "Create repository"
+We offer authentic traditional Chinese massage therapy and Qigong treatments. Our highly trained and licensed massage therapists provide personalized treatments designed to:
 
-### Step 2: Push Your Files to GitHub
+- Improve circulation and relieve muscle tension
+- Reduce stress and promote relaxation
+- Balance energy flow and restore harmony
+- Support your overall wellness journey
 
-1. In your terminal, navigate to your project folder:
-   ```bash
-   cd /Users/jiaweiqian/Desktop/shenzhouqigongtuina_site
-   ```
+## 🔗 Visit Our Website
 
-2. Initialize Git and push your files:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: massage website"
-   git branch -M main
-   git remote add origin https://github.com/YOUR-USERNAME/shenzhouqigongtuina.git
-   git push -u origin main
-   ```
-   Replace `YOUR-USERNAME` with your actual GitHub username.
+Check out our full website for more information:
 
-### Step 3: Enable GitHub Pages
+**[https://jiawqian.github.io/shenzhouqigongtuina/](https://jiawqian.github.io/shenzhouqigongtuina/)**
 
-1. Go to your GitHub repository
-2. Click "Settings" (gear icon)
-3. Scroll down to "Pages" section
-4. Under "Build and deployment":
-   - Source: Select "Deploy from a branch"
-   - Branch: Select "main" and "/(root)"
-5. Click "Save"
+---
 
-Your website will be live at: `https://YOUR-USERNAME.github.io/shenzhouqigongtuina/`
+*Shenzhou Qigong Tuina - Where healing meets tradition*
 
-## Project Structure
-
-```
-shenzhouqigongtuina_site/
-├── index.html          # Main HTML file
-├── styles.css          # CSS styling
-├── images/             # Folder for your massage images
-│   ├── massage-1.jpg
-│   ├── massage-2.jpg
-│   ├── massage-3.jpg
-│   └── massage-4.jpg
-└── README.md           # This file
-```
-
-## Adding Images
-
-1. Create an `images/` folder in your project
-2. Add your massage photos (JPG or PNG format)
-3. Update the image filenames in `index.html` to match your actual files
-
-## Tips for Success
-
-- Use high-quality, professional-looking massage/wellness images
-- Keep contact information current
-- Test the contact form - basic form validation is included
-- Use descriptive alt text for all images (already included)
-- Mobile test your website before sharing the link
-
-## License
-
-This project is available for personal and commercial use.
-
-## Support
-
-For more information about GitHub Pages, visit: https://pages.github.com/
