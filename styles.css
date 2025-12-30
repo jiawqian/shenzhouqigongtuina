@@ -278,6 +278,28 @@ header h1 {
     background-color: #faf7f2;
 }
 
+/* Highlight for best value */
+.price-table tr.highlight td {
+    background: linear-gradient(90deg, rgba(245,213,184,0.30), rgba(249,245,240,0.30));
+    color: #5a3f28;
+}
+
+.price-table tr.highlight td strong {
+    color: #8b6f47;
+    font-weight: 700;
+}
+
+/* Foot massage highlight - a harmonious soft sage/seafoam */
+.price-table tr.foot-highlight td {
+    background: linear-gradient(90deg, rgba(196,222,210,0.28), rgba(245,249,247,0.18));
+    color: #35684a;
+}
+
+.price-table tr.foot-highlight td strong {
+    color: #2f5e45;
+    font-weight: 700;
+}
+
 .price-table tbody tr:last-child td {
     border-bottom: none;
 }
